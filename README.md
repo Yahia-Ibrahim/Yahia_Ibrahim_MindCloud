@@ -18,3 +18,5 @@ git clone https://github.com/Yahia-Ibrahim/Yahia_Ibrahim_MindCloud.git
 # Required screenshots
 ## pull request
 ![image](https://github.com/Yahia-Ibrahim/Yahia_Ibrahim_MindCloud/assets/120991373/4d49b26a-6c85-4039-80b6-7f7803e70b57)
+## Commits
+![image](https://github.com/Yahia-Ibrahim/Yahia_Ibrahim_MindCloud/assets/120991373/7100d001-120b-4a32-b3da-1dc9b0c5d321)
