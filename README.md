@@ -10,3 +10,5 @@ GitHub task for Mind Cloud
 computer and systems engineering
 ## My favorite team
 software
+## Cloning My Repo
+git clone https://github.com/Yahia-Ibrahim/Yahia_Ibrahim_MindCloud.git
